@@ -20,5 +20,10 @@ Se utilizará un vector que almacenará los nombres de cada variable y otro que 
 El análisis permitirá conocer el comportamiento de cada variable en sus respectivos casos y obtener información importante para ir mejorando el respectivo problema de los casos. El uso de vectores y ciclos simplificó el manejo de los datos y permitió realizar cálculos de forma rápida y ordenada. 
 La identificación de las variables con baja actividad proporcionando información que ayudará para comenzar a planificar estrategias o mejoramiento en cada sección de los casos.
 
+## Bibliografía.
+Joyanes Aguilar, L. (2008). Fundamentos de programación: Algoritmos, estructuras de datos y objetivos. McGraw-Hill.
+Arnow, D. (2001). Introducción a la programación con Java. Addison Wesley.
+Programación en JavaScript.
+
 ## Autor.
 Landivar López Francisco Alberto.
