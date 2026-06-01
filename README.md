@@ -21,9 +21,9 @@ El análisis permitirá conocer el comportamiento de cada variable en sus respec
 La identificación de las variables con baja actividad proporcionando información que ayudará para comenzar a planificar estrategias o mejoramiento en cada sección de los casos.
 
 ## Bibliografía.
-Joyanes Aguilar, L. (2008). Fundamentos de programación: Algoritmos, estructuras de datos y objetivos. McGraw-Hill.
-Arnow, D. (2001). Introducción a la programación con Java. Addison Wesley.
-Programación en JavaScript.
+* Joyanes Aguilar, L. (2008). Fundamentos de programación: Algoritmos, estructuras de datos y objetivos. McGraw-Hill.
+* Arnow, D. (2001). Introducción a la programación con Java. Addison Wesley.
+* Programación en JavaScript.
 
 ## Autor.
 Landivar López Francisco Alberto.
